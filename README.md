@@ -1,3 +1,4 @@
 ![Banner](./images/Banner.png)
-# Proyecto-1
-## Algoritmo de Costos
+# Módulo 1 - Proyecto 1
+## ¡Bienvenido al desarrollo del proyecto "Algoritmo de Costos" desarrollado en pseudocódigo PSEINT
+
