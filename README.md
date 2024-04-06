@@ -1,2 +1,2 @@
 # Proyecto-1
-##Algoritmo de Costos
+## Algoritmo de Costos
