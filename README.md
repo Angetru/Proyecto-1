@@ -1,4 +1,4 @@
-![Banner](./images/Banner.png)
+![Banner](./images/Banner_ppal.png)
 # Módulo 1 - Proyecto 1
 ## ¡Bienvenidos al proyecto "Algoritmo de Costos"!
 
