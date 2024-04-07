@@ -1,16 +1,17 @@
 ![Banner](./images/Banner.png)
 # Módulo 1 - Proyecto 1
-## ¡Bienvenido al proyecto "Algoritmo de Costos" desarrollado en pseudocódigo PSeInt!
-# Tabla de Contenidos
-* [1. Desafío](#1-desafío)
+## ¡Bienvenido al proyecto "Algoritmo de Costos"!
 
-* [2. Análisis](#2-analisis)
+## Tabla de Contenidos
+* [1. Desafío](#1-Desafío)
 
-* [3. Código y explicaciones](#3-codigo-y-explicaciones)
+* [2. Análisis](#2-Análisis)
 
-* [4. Resultado](#4-resultado)
+* [3. Código y explicaciones](#3-Código-y-explicaciones)
 
-* [5. Conclusiones](#5-conclusiones)
+* [4. Resultado](#4-Resultado)
+
+* [5. Conclusiones](#5-Conclusiones)
 
 ****
 ## Desarrollo
