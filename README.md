@@ -39,7 +39,7 @@ En este proyecto, la idea será relacionada a una **Tienda online de venta de pl
 - *Se considerará como impuesto el aplicable en Chile, correspondiente al 19% del valor del producto*
 - *Descuento adicional por cantidad se considerará un 5%*
 
-¡[img tienda de plantas](./images/Banner2.png)
+![img tienda de plantas](./images/Banner2.png)
 
 ****
 
