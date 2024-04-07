@@ -45,7 +45,7 @@ Adicionalmente, se debe considerar los factores de: Cantidad de productos, impue
 
 ### 3. Código y explicaciones
 
-1.Inicialmente en PSeInt se realiza la declaración de variables, como reales, a utilizar en el programa:
+1.Inicialmente en PSeInt se realiza la declaración de variables, como reales. Algunas de ellas son:
 - precioOriginal
 - descuento
 - valorDescuento
@@ -55,6 +55,11 @@ Adicionalmente, se debe considerar los factores de: Cantidad de productos, impue
 - costoEnvio
 - pesoPaquete
 - costoFinal
+
+  Luego se procede a solicitar el ingreso de variables por parte del cliente. En esta etapa se ejecutan cálculos y condiciones, para almacenar los valores que posteriormente que se desplegarán al finalizar la ejecución del programa.
+  El diagrama de flujo demuestra lo siguiente:
+  ¡[img diagrama de flujo](./images/Diagramaflujo.png)
+  
 
 
   
