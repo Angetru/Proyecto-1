@@ -1,13 +1,13 @@
 ![Banner](./images/Banner.png)
 # Módulo 1 - Proyecto 1
-## ¡Bienvenido al proyecto "Algoritmo de Costos"!
+## ¡Bienvenidos al proyecto "Algoritmo de Costos"!
 
 ## Tabla de Contenidos
 * [1. Desafío](#1-Desafío)
 * [2. Análisis](#2-Análisis)
 * [3. Supuestos para proyecto](#3-Supuestos-para-proyecto)
-* [4. Código y explicaciones generales](#4-Código-y-explicaciones-generales)
-* [5. Adaptación código para proyecto](#5-Adaptación-código-para-proyecto)
+* [4. Pseudocódigo y explicaciones generales](#4-Pseudocódigo-y-explicaciones-generales)
+* [5. Adaptación programa para proyecto](#5-Adaptación-programa-para-proyecto)
 * [6. Conclusiones](#6-Conclusiones)
 
 ****
@@ -46,7 +46,7 @@ Los Supuestos para este proyecto en particular son:
 
 ****
 
-### 4. Código y explicaciones
+### 4. Pseudocódigo y explicaciones generales
 
 1.Inicialmente en PSeInt se realiza la declaración de variables, como reales. Algunas de ellas son:
 - precioOriginal
@@ -59,14 +59,14 @@ Los Supuestos para este proyecto en particular son:
 - pesoPaquete
 - costoFinal
 
-  Luego se procede a solicitar el ingreso de variables por parte del cliente. En esta etapa se ejecutan cálculos y condiciones, para almacenar los valores que posteriormente que se desplegarán al finalizar la ejecución del programa.
-  El diagrama de flujo demuestra lo siguiente:
+ Luego se procede a solicitar el ingreso de variables por parte del cliente. En esta etapa se ejecutan cálculos y condiciones, para almacenar los valores que posteriormente que se desplegarán al finalizar la ejecución del programa.
+ El diagrama de flujo demuestra lo siguiente:
   ![img diagrama de flujo](./images/Diagramaflujo.png)
 
-En base al ejemplo y las variables entregadas, se procede a realizar las pruebas y se obtiene el resultado esperado. Se demuestra a continuación:
+ En base al ejemplo y las variables entregadas, se procede a realizar las pruebas y se obtiene el resultado esperado. Se demuestra a continuación:
   ![img resultado de ejemplo](./images/Ejemplo.png)
 
-[Se incluye Link para visualización y prueba del programa en base al ejemplo](docs/CalcularCostoFinalProducto.psc)
+[Se incluye Link para visualización y prueba del programa en base al ejemplo](./CalcularCostoFinalProducto.psc)
   
   ****
 
