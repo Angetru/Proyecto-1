@@ -6,9 +6,9 @@
 * [1. Desafío](#1-Desafío)
 * [2. Análisis](#2-Análisis)
 * [3. Supuestos para proyecto](#3-Supuestos-para-proyecto)
-* [4. Código y explicaciones](#3-Código-y-explicaciones)
-* [5. Resultado](#4-Resultado)
-* [6. Conclusiones](#5-Conclusiones)
+* [4. Código y explicaciones generales](#4-Código-y-explicaciones-generales)
+* [5. Adaptación código para proyecto](#5-Adaptación-código-para-proyecto)
+* [6. Conclusiones](#6-Conclusiones)
 
 ****
 ## Desarrollo
@@ -66,12 +66,13 @@ Los Supuestos para este proyecto en particular son:
 En base al ejemplo y las variables entregadas, se procede a realizar las pruebas y se obtiene el resultado esperado. Se demuestra a continuación:
   ![img resultado de ejemplo](./images/Ejemplo.png)
 
-
+[Se incluye Link para visualización y prueba del programa en base al ejemplo](docs/CalcularCostoFinalProducto.psc)
   
   ****
 
-  ### 5. Resultado
-  En desarrollo
+  ### 5. Adaptación código para proyecto
+  En esta sección se muestra una modificación al programa en base a los supuestos, indicados en la sección # 3.
+  
 
   ****
 
