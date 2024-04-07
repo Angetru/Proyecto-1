@@ -4,13 +4,9 @@
 
 ## Tabla de Contenidos
 * [1. Desafío](#1-Desafío)
-
 * [2. Análisis](#2-Análisis)
-
 * [3. Código y explicaciones](#3-Código-y-explicaciones)
-
 * [4. Resultado](#4-Resultado)
-
 * [5. Conclusiones](#5-Conclusiones)
 
 ****
