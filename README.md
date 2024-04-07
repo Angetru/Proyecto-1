@@ -14,7 +14,7 @@
 
 ## Desarrollo
 
-# desafio
+### Desafio
 Generar algoritmo en pseudocódigo PSeInt simulando un sistema de cálculo de costo de un producto, considerando de base el precio original y un porcentaje de descuento. Se debe cumplir con los siguientes requerimientos:
 - Lectura de precio original
 - Aplicación de descuento, si el cliente posee cupón de descuento
@@ -25,7 +25,7 @@ Generar algoritmo en pseudocódigo PSeInt simulando un sistema de cálculo de co
 - Mostrar costo final del producto, incluyendo desglose de los componentes: descuentos, impuestos, descuento por cantidad y costo de envío.
 
   
-# analisis
+### Análisis
 En base al desafío planteado, se inicia el análisis y preparación del código considerando los requisitos como guía basal para la construcción del código, lo cuál debe cumplir:
 - Lectura del precio original.
 - Lectura de porcentaje de descuento aplicado.
@@ -36,7 +36,7 @@ Adicionalmente a los puntos mencionados anteriormente, se debe considerar los fa
 Para este desafío se considerará como impuesto el aplicable en Chile, correspondiente al 19% del valor del producto.
 
 
-# codigo-y-explicaciones
+### Código y explicaciones
 
 1.Primero, en PSeInt se realiza la declaración de variables, como reales, a utilizar en el programa:
 - Precio Original
