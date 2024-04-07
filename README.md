@@ -58,7 +58,7 @@ Adicionalmente, se debe considerar los factores de: Cantidad de productos, impue
 
   Luego se procede a solicitar el ingreso de variables por parte del cliente. En esta etapa se ejecutan cálculos y condiciones, para almacenar los valores que posteriormente que se desplegarán al finalizar la ejecución del programa.
   El diagrama de flujo demuestra lo siguiente:
-  ¡[img diagrama de flujo](./images/Diagramaflujo.png)
+  ![img diagrama de flujo](./images/Diagramaflujo.png)
   
 
 
