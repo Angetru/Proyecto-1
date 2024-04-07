@@ -2,19 +2,20 @@
 # Módulo 1 - Proyecto 1
 ## ¡Bienvenido al proyecto "Algoritmo de Costos" desarrollado en pseudocódigo PSeInt!
 # Tabla de Contenidos
--[Desafío](#desafío)
+* [1. Desafío](#1-desafío)
 
--[Análisis](#analisis)
+* [2. Análisis](#2-analisis)
 
--[Código y explicaciones](#codigo-y-explicaciones)
+* [3. Código y explicaciones](#3-codigo-y-explicaciones)
 
--[Resultado](#resultado)
+* [4. Resultado](#4-resultado)
 
--[Conclusiones](#conclusiones)
+* [5. Conclusiones](#5-conclusiones)
 
+****
 ## Desarrollo
 
-### Desafio
+### 1. Desafio
 Generar algoritmo en pseudocódigo PSeInt simulando un sistema de cálculo de costo de un producto, considerando de base el precio original y un porcentaje de descuento. Se debe cumplir con los siguientes requerimientos:
 - Lectura de precio original
 - Aplicación de descuento, si el cliente posee cupón de descuento
@@ -24,8 +25,9 @@ Generar algoritmo en pseudocódigo PSeInt simulando un sistema de cálculo de co
 - Cálculo de costo final de producto considerando componentes de: descuento, impuestos, descuento por cantidad y costo de envío.
 - Mostrar costo final del producto, incluyendo desglose de los componentes: descuentos, impuestos, descuento por cantidad y costo de envío.
 
+  ****
   
-### Análisis
+### 2. Análisis
 En base al desafío planteado, se inicia el análisis y preparación del código considerando los requisitos como guía basal para la construcción del código, lo cuál debe cumplir:
 - Lectura del precio original.
 - Lectura de porcentaje de descuento aplicado.
@@ -35,8 +37,9 @@ En base al desafío planteado, se inicia el análisis y preparación del código
 Adicionalmente a los puntos mencionados anteriormente, se debe considerar los factores de cantidad de productos, impuesto, peso del paquete y lugar de envío.
 Para este desafío se considerará como impuesto el aplicable en Chile, correspondiente al 19% del valor del producto.
 
+****
 
-### Código y explicaciones
+### 3. Código y explicaciones
 
 1.Primero, en PSeInt se realiza la declaración de variables, como reales, a utilizar en el programa:
 - Precio Original
@@ -46,6 +49,18 @@ Para este desafío se considerará como impuesto el aplicable en Chile, correspo
 - Peso de paquete
 - Lugar de envío
 - Valor final
+
+  ****
+
+  ### 4. Resultado
+  En desarrollo
+
+  ****
+
+  ### 5. Conclusiones
+  En desarrollo
+
+  ****
 
 
 
