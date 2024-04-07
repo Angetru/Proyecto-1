@@ -25,28 +25,36 @@ Generar algoritmo en pseudocódigo PSeInt simulando un sistema de cálculo de co
   ****
   
 ### 2. Análisis
-En base al desafío planteado, se inicia el análisis y preparación del código considerando los requisitos como guía basal para la construcción del código, lo cuál debe cumplir:
-- Lectura del precio original.
-- Lectura de porcentaje de descuento aplicado.
-- Cálculo de precio final de producto, post descuento.
-- Muestra de precio final de producto.
+En base al desafío planteado, se inicia el análisis y preparación del pseudocódigo considerando los requisitos como guía basal para la construcción del mismo, lo cuál debe cumplir con:
+- Lectura del precio original
+- Lectura de porcentaje de descuento aplicado
+- Cálculo de precio final de producto, post descuento
+- Muestra de precio final de producto
 
-Adicionalmente a los puntos mencionados anteriormente, se debe considerar los factores de cantidad de productos, impuesto, peso del paquete y lugar de envío.
-Para este desafío se considerará como impuesto el aplicable en Chile, correspondiente al 19% del valor del producto.
+Adicionalmente, se debe considerar los factores de: Cantidad de productos, impuesto, peso del paquete y lugar de envío.
+
+En este proyecto, la idea será relacionada a una **Tienda online de venta de plantas**
+*Supuestos para este proyecto:
+- *Se considerará como impuesto el aplicable en Chile, correspondiente al 19% del valor del producto*
+- *Descuento adicional por cantidad se considerará un 5%*
 
 ****
 
 ### 3. Código y explicaciones
 
-1.Primero, en PSeInt se realiza la declaración de variables, como reales, a utilizar en el programa:
-- Precio Original
-- Cupon de descuento
-- Impuesto
-- Cantidad
-- Peso de paquete
-- Lugar de envío
-- Valor final
+1.Inicialmente en PSeInt se realiza la declaración de variables, como reales, a utilizar en el programa:
+- precioOriginal
+- descuento
+- valorDescuento
+- impuesto
+- costoimpuesto
+- cantidad
+- costoEnvio
+- pesoPaquete
+- costoFinal
 
+
+  
   ****
 
   ### 4. Resultado
