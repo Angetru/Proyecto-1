@@ -37,7 +37,7 @@ Adicionalmente, se debe considerar los factores de: Cantidad de productos, impue
 ****
 
 ### 3. Supuestos para proyecto
-Los Supuestos para este proyecto en particular son:
+Los supuestos para este proyecto en particular son:
 - La idea será relacionada a una *Tienda online de venta de plantas*
 - Se considerará como impuesto el aplicable en Chile, correspondiente al 19% del valor del producto
 - Descuento adicional por cantidad se considerará un 5%
@@ -81,5 +81,5 @@ Los Supuestos para este proyecto en particular son:
 
   ****
 
-
+**¡Gracias!**
 
