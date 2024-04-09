@@ -40,6 +40,7 @@ Adicionalmente, se debe considerar los factores de: Cantidad de productos, impue
 Los supuestos para este proyecto en particular son:
 - La idea será relacionada a una *Tienda online de venta de plantas*
 - Se considerará como impuesto el aplicable en Chile, correspondiente al 19% del valor del producto
+- Para costo de envío, se considera como costo fijo de $5000 más $500 por el peso del paquete
 - Descuento adicional por cantidad se considerará un 5%
 
 ![img tienda de plantas](./images/Proyecto_plantas.png)
