@@ -73,12 +73,13 @@ Los supuestos para este proyecto en particular son:
 
   ### 5. Adaptación código para proyecto
   En esta sección se muestra una modificación al programa en base a los supuestos, indicados en la sección # 3.
-  **En desarrollo**
+ 
+  *En desarrollo*
 
   ****
 
   ### 6. Conclusiones
-  **En desarrollo**
+  *En desarrollo*
 
   ****
 
