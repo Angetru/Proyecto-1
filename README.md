@@ -7,8 +7,7 @@
 * [2. Análisis](#2-Análisis)
 * [3. Supuestos para proyecto](#3-Supuestos-para-proyecto)
 * [4. Pseudocódigo y explicaciones generales](#4-Pseudocódigo-y-explicaciones-generales)
-* [5. Adaptación programa para proyecto](#5-Adaptación-programa-para-proyecto)
-* [6. Conclusiones](#6-Conclusiones)
+* [5. Conclusiones](#5-Conclusiones)
 
 ****
 ## Desarrollo
@@ -33,16 +32,17 @@ En base al desafío planteado, se inicia el análisis y preparación del pseudoc
 - Muestra de precio final de producto
 
 Adicionalmente, se debe considerar los factores de: Cantidad de productos, impuesto, peso del paquete y lugar de envío.
-Dentro de la estructura del Pseudocódigo, se debe tomar por secciones de lectura, y otros que permita obtener cálculos que posteriormente, una vez ejecutado el programa entrege los valores desglosados por conceptos principales.
+Dentro de la estructura del Pseudocódigo, se debe tomar por bloques de lectura, y a su vez que permita obtener cálculos que posteriormente, una vez ejecutado el programa entrege los valores desglosados por conceptos principales.
 
 ****
 
 ### 3. Supuestos para proyecto
-En el trabajo solicitado, se indican algunos conceptos de los cuales se requiere desarrollar el programa con ejemplo incluido, y en la sección siguiente se explicará en detalle. En particular aqui se declaran los supuestos que se presentan como una variante adicional al programa solicitado, en donde se define:
+En  particular aqui se declaran los supuestos en donde se define:
 - La idea será relacionada a una *Tienda online de venta de plantas*
-- Se considerará como impuesto el aplicable en Chile, correspondiente al 19% del valor del producto
-- Para costo de envío, se considera como costo fijo de $5000 más $500 por el peso del paquete
-- Descuento adicional por cantidad se considerará un 5%
+- Si el cliente no posee un cupón de descuento, se le otorgará uno de 10% por su primera compra
+- Para costo de envío, se considera como variable unidimensional los costos de envío considerando 4 opciones, a su vez se considera la variable de peso del paquete en Kilogramos.
+- Existe un descuento adicional por cantidad, el cual se considera de un 5%
+
 
 ![img tienda de plantas](./images/Proyecto_plantas.png)
 
@@ -71,16 +71,8 @@ En términos de estructura del programa, PSeInt nos despliega el siguiente diagr
 [Se incluye Link para visualización y prueba del programa en base al ejemplo](./CalcularCostoFinalProducto_Final_ATC.psc)
   
   ****
-
-  ### 5. Adaptación código para proyecto
-  En esta sección se muestra una modificación al programa en base a los supuestos declarados en la sección # 3.
   
- 
-  *En desarrollo*
-
-  ****
-
-  ### 6. Conclusiones
+  ### 5. Conclusiones
   *En desarrollo*
 
   ****
