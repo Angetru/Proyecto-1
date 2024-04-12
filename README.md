@@ -33,11 +33,12 @@ En base al desafío planteado, se inicia el análisis y preparación del pseudoc
 - Muestra de precio final de producto
 
 Adicionalmente, se debe considerar los factores de: Cantidad de productos, impuesto, peso del paquete y lugar de envío.
+Dentro de la estructura del Pseudocódigo, se debe tomar por secciones de lectura, y otros que permita obtener cálculos que posteriormente, una vez ejecutado el programa entrege los valores desglosados por conceptos principales.
 
 ****
 
 ### 3. Supuestos para proyecto
-Los supuestos para este proyecto en particular son:
+En el trabajo solicitado, se indican algunos conceptos de los cuales se requiere desarrollar el programa con ejemplo incluido, y en la sección siguiente se explicará en detalle. En particular aqui se declaran los supuestos que se presentan como una variante adicional al programa solicitado, en donde se define:
 - La idea será relacionada a una *Tienda online de venta de plantas*
 - Se considerará como impuesto el aplicable en Chile, correspondiente al 19% del valor del producto
 - Para costo de envío, se considera como costo fijo de $5000 más $500 por el peso del paquete
@@ -60,11 +61,11 @@ Los supuestos para este proyecto en particular son:
 - pesoPaquete
 - costoFinal
 
- Luego se procede a solicitar el ingreso de variables por parte del cliente. En esta etapa se ejecutan cálculos y condiciones, para almacenar los valores que posteriormente que se desplegarán al finalizar la ejecución del programa.
- El diagrama de flujo demuestra lo siguiente:
+ Luego se procede a solicitar el ingreso de variables por parte del cliente, incluyendo comandos de lectura. En esta etapa se ejecutan cálculos y condiciones, que permitirá el almacenaje de los valores que posteriormente se desplegarán al finalizar la ejecución del programa.
+En términos de estructura del programa, PSeInt nos despliega el siguiente diagrama de flujo:
   ![img diagrama de flujo](./images/Diagramaflujo.png)
 
- En base al ejemplo y las variables entregadas, se procede a realizar las pruebas y se obtiene el resultado esperado. Se demuestra a continuación:
+ En base al ejemplo presentado en el desafío y las variables entregadas, se procede a realizar las pruebas y se obtiene el resultado esperado. Se demuestra a continuación:
   ![img resultado de ejemplo](./images/Ejemplo.png)
 
 [Se incluye Link para visualización y prueba del programa en base al ejemplo](./CalcularCostoFinalProducto.psc)
@@ -72,7 +73,8 @@ Los supuestos para este proyecto en particular son:
   ****
 
   ### 5. Adaptación código para proyecto
-  En esta sección se muestra una modificación al programa en base a los supuestos, indicados en la sección # 3.
+  En esta sección se muestra una modificación al programa en base a los supuestos declarados en la sección # 3.
+  
  
   *En desarrollo*
 
