@@ -63,7 +63,7 @@ En  particular aqui se declaran los supuestos en donde se define:
 
  Luego se procede a solicitar el ingreso de variables por parte del cliente, incluyendo comandos de lectura. En esta etapa se ejecutan cálculos y condiciones, que permitirá el almacenaje de los valores que posteriormente se desplegarán al finalizar la ejecución del programa.
 En términos de estructura del programa, PSeInt nos despliega el siguiente diagrama de flujo:
-  ![img diagrama de flujo](./images/Diagramaflujo.png)
+  ![img diagrama de flujo](./images/Diagrama_de_flujo.png)
 
  En base al ejemplo presentado en el desafío y las variables entregadas, se procede a realizar las pruebas y se obtiene el resultado esperado. Se demuestra a continuación:
   ![img resultado de ejemplo](./images/Ejemplo.png)
