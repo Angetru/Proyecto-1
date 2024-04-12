@@ -68,7 +68,7 @@ En términos de estructura del programa, PSeInt nos despliega el siguiente diagr
  En base al ejemplo presentado en el desafío y las variables entregadas, se procede a realizar las pruebas y se obtiene el resultado esperado. Se demuestra a continuación:
   ![img resultado de ejemplo](./images/Ejemplo.png)
 
-[Se incluye Link para visualización y prueba del programa en base al ejemplo](./CalcularCostoFinalProducto.psc)
+[Se incluye Link para visualización y prueba del programa en base al ejemplo](./CalcularCostoFinalProducto_Final_ATC.psc)
   
   ****
 
