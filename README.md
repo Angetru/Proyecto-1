@@ -25,19 +25,19 @@
   ****
   
 ### 2. Análisis
-En base al desafío planteado, se inicia el análisis y preparación del pseudocódigo considerando los requisitos como guía basal para la construcción del mismo, lo cuál debe cumplir con:
+ En base al desafío planteado, se inicia el análisis y preparación del pseudocódigo considerando los requisitos como guía basal para la construcción del mismo, lo cuál debe cumplir con:
 - Lectura del precio original
 - Lectura de porcentaje de descuento aplicado
 - Cálculo de precio final de producto, post descuento
 - Muestra de precio final de producto
 
-Adicionalmente, se debe considerar los factores de: Cantidad de productos, impuesto, peso del paquete y lugar de envío.
+ Adicionalmente, se debe considerar los factores de: Cantidad de productos, impuesto, peso del paquete y lugar de envío.
 Dentro de la estructura del Pseudocódigo, se debe tomar por bloques de lectura, y a su vez que permita obtener cálculos que posteriormente, una vez ejecutado el programa entrege los valores desglosados por conceptos principales.
 
 ****
 
 ### 3. Supuestos para proyecto
-Aqui se declaran los supuestos para este proyecto, en donde se define:
+ Aqui se declaran los supuestos para este proyecto, en donde se define:
 - La tienda de venta online será: *Tienda online de venta de plantas*.
 - Si el cliente no posee un cupón de descuento para su cotización, se le otorgará uno de 10% por su primera compra como cortesía.
 - Se define como variable unidimensional el destino de envío, teniendo 4 destinos.
@@ -70,11 +70,14 @@ Inicialmente en PSeInt se realiza la declaración de variables, como reales. Alg
    
  En específico, se demuestra a continuación extractos de condicionales que incluyen operaciones:
    - Condicional para cupón de descuento:
+     
    ![img ejemplo de condicional](./images/Extracto_condicional1.png)
+  
    - Condicional para descuento por cantidad:
+     
   ![img ejemplo de condicional](./images/Extracto_condicional2.png)
   
- En término de dimensiones, se agrega un arreglo de tipo unidimensional que almacena los costos de envío en base a un destino, siendo cuatro en total. Además se agrega un bucle para que el cliente realice el correcto ingreso de destino:
+ En término de dimensiones, se agrega un arreglo unidimensional que almacena los costos de envío en base a un destino, siendo cuatro en total. Además se agrega un bucle para que el cliente realice el correcto ingreso de destino:
 ![img extracto de costo de envío](./images/Extracto_costoenvio.png)
 
  Finalmente para mostrar el costo final y el detalle por concepto buscados por el cliente:
