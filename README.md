@@ -41,7 +41,7 @@ Dentro de la estructura del Pseudocódigo, se debe tomar por bloques de lectura,
 - La tienda de venta online será: *Tienda online de venta de plantas*.
 - Si el cliente no posee un cupón de descuento para su cotización, se le otorgará uno de 10% por su primera compra como cortesía.
 - Se define como variable unidimensional el destino de envío, teniendo 4 destinos.
-- Para el cálculo de costo de envío, se considera como costo fijo $10, y se incluye la variable de destino, además de la variable de peso del paquete en Kilogramos, esta última a ser definida por el cliente.
+- Para el cálculo de costo de envío, se considera como costo fijo $10, y se incluye la variable de destino, además de la variable de peso del paquete en kilogramos, esta última a ser definida por el cliente.
 - Existe un descuento adicional por cantidad, el cual corresponde a un 5%.
 
 
