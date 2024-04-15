@@ -92,6 +92,7 @@ Inicialmente en PSeInt se realiza la declaración de variables, como reales. Alg
 - Cantidad: 2
 - Peso del paquete: 3Kg
 - Destino de envío: En el ejemplo indicaba New York, considerando un costo de destino de $2.
+
   *Para este proyecto, se selecciona la opción  de zona centro, debido al costo que corresponde a $2*
 
  Resultados esperados:
@@ -113,7 +114,9 @@ Inicialmente en PSeInt se realiza la declaración de variables, como reales. Alg
   
   ### 5. Conclusiones
   Durante la ejecución del programa, se dió inicio con una estructura básica, primero de lectura de algunas variables hasta llegar a la definición de cupón de descuento, en este primer bloque se generaron pruebas para ir validando si estaba ok o no, en base a ensayos. Se decidió agregar un set de condiciones que permitieran abrir el código en decisiones y jugar con los escenarios posibles. 
+  
   Para poder agregar el arreglo unidimensional, se decidió aplicarlo en la sección de cálculo de costo de envío, en específico en la variable de destino, esto debido a que era el concepto más idoneo en donde poder integrarlo.
+  
   Previo al cierre del programa, se decidió agregar una condición más que permitiera el cálculo del descuento por cantidad de articulos. 
   Finalmente considerando los análisis realizados, además de las pruebas por bloque, se dió paso a que el programa respondiera de forma esperada, considerando los requerimientos solicitados para este desafío.  
 
