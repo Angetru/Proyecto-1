@@ -78,9 +78,11 @@ Inicialmente en PSeInt se realiza la declaración de variables, como reales. Alg
   ![img ejemplo de condicional](./images/Extracto_condicional2.png)
   
  En término de dimensiones, se agrega un arreglo unidimensional que almacena los costos de envío en base a un destino, siendo cuatro en total. Además se agrega un bucle para que el cliente realice el correcto ingreso de destino:
+ 
 ![img extracto de costo de envío](./images/Extracto_costoenvio.png)
 
  Finalmente para mostrar el costo final y el detalle por concepto buscados por el cliente:
+ 
 ![img extracto de costo final](./images/Extracto_costofinal.png)
 
  A modo de prueba, se ingresan las siguientes variables, indicadas como parte del ejemplo en la descripción de problema planteado, en donde:
@@ -89,7 +91,8 @@ Inicialmente en PSeInt se realiza la declaración de variables, como reales. Alg
 - IVA: 12%
 - Cantidad: 2
 - Peso del paquete: 3Kg
-- Destino de envío: En el ejemplo indicaba New York, considerando un costo de destino de $2. *Para este proyecto, se selecciona la opción  de zona centro, debido al costo que corresponde a $2*
+- Destino de envío: En el ejemplo indicaba New York, considerando un costo de destino de $2.
+  *Para este proyecto, se selecciona la opción  de zona centro, debido al costo que corresponde a $2*
 
  Resultados esperados:
  - Valor con descuento: $90
@@ -99,6 +102,7 @@ Inicialmente en PSeInt se realiza la declaración de variables, como reales. Alg
  - Costo final: $207.52
 
  A continuación se demuestra el resultado de la ejecución con las variables indicadas anteriormente:
+ 
   ![img extracto de costo final](./images/Prueba_resultado.png)
 
  Se concluye que el pseudocódigo se comporta conforme a lo esperado.
